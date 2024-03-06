@@ -29,31 +29,31 @@ this script need python 3.11 ++
 Clone the project
 
 ```bash
-  git clone https://github.com/IkuzaDev/TikViews
+git clone https://github.com/IkuzaDev/TikViews
 ```
 
 Go to the project directory
 
 ```bash
-  cd TikViews
+cd TikViews
 ```
 
 Install dependencies
 
 ```bash
-  pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 extract main.zip
 
 ```bash
-  unzip main.zip
+unzip main.zip
 ```
 
 Start the bot
 
 ```bash
-  python3 main.py
+python3 main.py
 ```
 
 ## Update from previous version
@@ -61,19 +61,19 @@ Start the bot
 Pull the latest version
 
 ```bash
-  git pull
+git pull
 ```
 
 Install new dependencies
 
 ``` bash
-  pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Run the bot
 
 ```bash
-  python3 main.py
+python3 main.py
 ```
 
 ## Picture
